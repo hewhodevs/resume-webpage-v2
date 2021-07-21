@@ -1,12 +1,39 @@
-body {
-  text-align: center;
+p {
+  color: olive;
+  font-size: 26px;
 }
 header {
   background-color: orange;
 }
-h1 {
-  font-size: 90px;
+footer {
+  background-color: lightcoral;
 }
-p {
-  font-size: 20px;
+a {
+  color: darkblue;
+  background-color: peachpuff;
+  text-decoration: none;
+}
+#education {
+  border: 3px solid red;
+}
+#skills-list {
+  background-color: aliceblue;
+  padding: 36px;
+}
+.top-skill {
+  font-weight: bold;
+  background-color: teal;
+  color: papayawhip;
+}
+.date {
+  border: 2px solid steelblue;
+  border-radius: 12px;
+  padding: 6px;
+}
+.special {
+  text-transform: uppercase;
+  background-color: papayawhip;
+}
+#proud {
+  font-size: 48px;
 }
