@@ -2,6 +2,9 @@ p {
   color: olive;
   font-size: 26px;
 }
+h1 {
+  font-size: 90px;
+}
 header {
   background-color: orange;
 }
