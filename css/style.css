@@ -12,6 +12,8 @@ header p {
 footer {
   background-color: lightcoral;
 }
+
+/* Start Link Syles */
 a:link {
   color: darkblue;
   background-color: peachpuff;
@@ -27,6 +29,8 @@ a:focus {
   color: white;
   background-color: orange;
 }
+/* End Link Styles */
+
 ol li {
   letter-spacing: 3px;
   color: tomato;
