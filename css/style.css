@@ -1,12 +1,13 @@
+html {
+  font-size: 1rem;
+}
+h1 {
+  font-size: 4em;
+  margin-bottom: 1.5rem;
+}
 p {
   color: olive;
   font-size: 26px;
-}
-html {
-  font-size: 20px;
-}
-h1 {
-  font-size: 400%;
 }
 header {
   background-color: orange;
@@ -75,5 +76,5 @@ ol li:first-child {
   background-color: papayawhip;
 }
 #proud {
-  font-size: 48px;
+  font-size: 3rem;
 }
