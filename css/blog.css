@@ -5,12 +5,19 @@ body {
   margin: 0;
 }
 header {
+  height: 25vh;
   background-color: #294969;
   color: ghostwhite;
   padding: 10px 15px;
   border: 12px solid orange;
   border-bottom: 12px solid #995400;
   margin: 0px
+}
+section {
+  min-height: 100vh;
+  padding: 1rem;
+  border-bottom: 2px dotted #666;
+  background-color: azure;
 }
 article, aside {
   margin: 12px;
