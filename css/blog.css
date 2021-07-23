@@ -1,7 +1,23 @@
+body {
+  margin: 0;
+}
 header {
   background-color: #294969;
   color: ghostwhite;
   padding: 10px 15px;
   border: 12px solid orange;
   border-bottom: 12px solid #995400;
+  margin: 0px
+}
+article, aside {
+  margin: 12px;
+}
+footer {
+  width: 200px;
+  padding: 4px;
+  border: 2 solid #ffa949;
+  margin: 30px 0 15px;
+  color: #294969;
+  font-size: .8rem;
+  text-align: center;
 }
