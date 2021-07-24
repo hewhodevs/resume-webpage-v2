@@ -19,6 +19,9 @@ section {
   border-bottom: 2px dotted #666;
   background-color: azure;
 }
+.hide {
+  display: none;
+}
 article, aside {
   margin: 12px;
 }
@@ -38,5 +41,12 @@ footer {
   margin: 30px 0 15px;
   color: #294969;
   font-size: .8rem;
+  text-align: center;
+}
+ul li {
+  display: inline-block;
+  width: 30%;
+  padding: 10px 0;
+  background-color: yellow;
   text-align: center;
 }
